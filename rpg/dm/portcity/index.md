@@ -4,7 +4,7 @@
 Ominous, foggy, smarmy
 
 ### Attributes and Ideas
-- City started as a port town, but as it grew it absorbed the surrounding towns until it became a large cit., Many of the older towns are now called burgs
+- City started as a port town, but as it grew it absorbed the surrounding towns until it became a large city. Many of the older towns are now called burgs
 - Older towns along the coast slowly decayed into dilapidated fishing slums
 - Main docks recieve shipping and fishing boats
 - There are two light houses, one on each outcropping of rocks at either side of the bay
