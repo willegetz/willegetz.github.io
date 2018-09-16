@@ -1,4 +1,4 @@
-[Site Home](../../../index) [Role Playing Games Home](../../index)
+[Site Home](../../../index) | [Role Playing Games Home](../../index)
 
 # Port City
 Ominous, foggy, smarmy
