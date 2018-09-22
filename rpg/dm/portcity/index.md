@@ -2,6 +2,8 @@
 
 # Port City
 Ominous, foggy, smarmy
+Bay and surrounding slopes formed by a meteor impact. The bay was the where the meteor came to rest pushing up the rock to form a ring around what would become the bay. The approach of the meteor created a long, narrow valley which has since become rather fertile and verdant. The bay filled with water as the parts of the outer ring eroded away or collapsed into the ocean.
+An enterprising merchant won favor with the ruler of the area and was awarded the title of duke/baron(?) and given the bay and it's surrounds in order to expand his mercantile efforts and bring great wealth to the ruler. The merchant made his castle on one of the outer ring's outcroppings.
 
 ### Attributes and Ideas
 - City started as a port town, but as it grew it absorbed the surrounding towns until it became a large city. Many of the older towns are now called burgs
