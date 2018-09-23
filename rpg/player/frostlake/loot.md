@@ -87,7 +87,7 @@ Cloak of Invisibility (From Ash)
 ### ~~Lile~~
 No longer part of this world
 
-### ~Nurulien~
+### ~~Nurulien~~
 No longer part of this world
 
 ### Saphara (formally Mandala)
