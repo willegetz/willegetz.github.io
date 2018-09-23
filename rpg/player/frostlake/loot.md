@@ -62,6 +62,10 @@ Mitre of the High Wolf Priest
 Cloak of the Gallows God (Clak of the Raven (like cloak of the bat))
 
 ### Ash
+Stone of Knowledge
+
+Stone of Magic
+
 Bracers of Armor +2
 
 Wand of Magic Missile (26 charges left when found)
@@ -78,11 +82,15 @@ Fushiko (Ranseur of Ayailla / Shared with Saphara)
 Bucket of Grease (From Ash)
 
 ### Guiome
+Stone of Awareness
+
 Rapier of Heironeous (+1 Alchemical Shock Rapier / Strong Magical Aura)
 
 +2 Studded Leather
 
 Cloak of Invisibility (From Ash)
+
+### ~~Ivy~~
 
 ### ~~Lile~~
 No longer part of this world
@@ -91,6 +99,8 @@ No longer part of this world
 No longer part of this world
 
 ### Saphara (formally Mandala)
+Stone of Pain
+
 Boots of Heironeous (Ridiculously Springy Boots / +20 to Acrobatics only when jumping / Moderate Magical Aura)
 
 Belt of Bull's Strngth +2
