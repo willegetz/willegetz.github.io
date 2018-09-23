@@ -5,13 +5,13 @@ Loot list herein reflects what the party has aquired through exploration or comb
 ### Party
 Magic Chest (Like a bag of holding)
 
-Scale with 1x Silver bar and 1x Saphire
+Statuette of a scale with 1x Silver bar on one plate and 1x Sapphire on the other (From the Frostlake Tomb. This head of the family was prized for mercantile prowess / Seems pretty valuable)
 
 +1 Silver Longsword
 
-Scepter (Lesser Metamagic Rod of Silence / For Ash?)
+Scepter (From the Frostlake Tomb. Lesser Metamagic Rod of Silence. This head of the family wouldn't be quiet during meetings. / For Ash?)
 
-Big Onyx Skull (From the Frostlake Tomb / Seems pretty valuable)
+Big Onyx Skull (From the Frostlake Tomb. Best not to talk about it. / Seems pretty valuable)
 
 +1 Chain Shirt
 
@@ -25,9 +25,11 @@ Big Onyx Skull (From the Frostlake Tomb / Seems pretty valuable)
 
 5000 gp Diamond
 
-Soon to by Crystal's gear
+Soon to be Crystal's gear
 
 Orb of Daylight
+
+Magic shackles (Was used to keep a unicorn)
 
 #### Portal Keys
 Key to the Chamber of Trials (For winning possession of Frostlake Castle and its land)
@@ -41,7 +43,7 @@ Leucadia Gate Key
 ### Angus
 Stone of Destiny (Encourages me to follow my destiny)
 
-Stone of Power (Let's me see the relative power lever compared to me / Yellow is equivelant, Green is weaker, Red is more powerful)
+Stone of Power (Let's me see the relative power lever of people when compared to me / Yellow is equivelant, Green is weaker, Red is more powerful)
 
 +1 Heavy Steel Shield
 
@@ -91,6 +93,7 @@ Rapier of Heironeous (+1 Alchemical Shock Rapier / Strong Magical Aura)
 Cloak of Invisibility (From Ash)
 
 ### ~~Ivy~~
+No longer part of this world
 
 ### ~~Lile~~
 No longer part of this world
@@ -98,7 +101,7 @@ No longer part of this world
 ### ~~Nurulien~~
 No longer part of this world
 
-### Saphara (formally Mandala)
+### Safara Amu Wamuhu (Fire Eagle Born of Ashes, formally Mandala)
 Stone of Pain
 
 Boots of Heironeous (Ridiculously Springy Boots / +20 to Acrobatics only when jumping / Moderate Magical Aura)
@@ -113,15 +116,17 @@ Fushiko's case (Chest of Ayailla)
 
 +1 Chain Shirt
 
-Armor of the Phoenix (+1 Mithril Breast Plate / Armor of Ayailla? Image of a phpenix rising from ashes engraved upon it. Possibly part of a set of armor and weapons which includes Fushiko.)
+Armor of the Phoenix (+1 Mithril Breast Plate / Armor of Ayailla? Image of a phoenix rising from ashes engraved upon it. Possibly part of a set of armor and weapons which includes Fushiko.)
 
 Amulet of Natural Armor +2
 
 Ring of Protection +2 (Deflection Bonus)
 
-Badger Pendant (From Ash)
+Badger Pendant (Makes Safara Big when enraged / From Ash)
 
 Boots of Water Walking
+
+Frostlake Signet Ring (Tied to the Frostlake castle)
 
 ### Sold
 4x Suits of chainmail in good condition (from dwarf bodyguards)
