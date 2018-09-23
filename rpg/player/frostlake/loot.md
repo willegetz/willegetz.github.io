@@ -111,6 +111,8 @@ Ring of Protection +2 (Deflection Bonus)
 
 Badger Pendant (From Ash)
 
+Boots of Water Walking
+
 ### Sold
 4x Suits of chainmail in good condition (from dwarf bodyguards)
 
