@@ -6,4 +6,4 @@
 - [Port city game](dm/portcity/index) (in design)
 
 #### As Player
-- Frostlake
+- [Frostlake](player/frostlake/index) (currently playing)
