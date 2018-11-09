@@ -10,6 +10,6 @@
 
 [Nov. 7 Notes](./sessions/Nov07/index)
 
-[Nov. 8 Notes](./sessions/Nov08)
+[Nov. 8 Notes](./sessions/Nov08/index)
 
 [Nov. 9 Notes](./sessions/Nov09)
