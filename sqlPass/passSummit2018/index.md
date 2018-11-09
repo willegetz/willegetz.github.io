@@ -3,7 +3,7 @@
 ## PASS SUMMIT 2018
 
 ### General Notes
-[General Notes](./sessions/general)
+[General Notes](./sessions/general/index)
 
 ### Sessions
 [Keynote](./sessions/keynote)
