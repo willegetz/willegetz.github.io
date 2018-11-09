@@ -1,16 +1,16 @@
-[Site Home](../../../../index) | [SQL PASS Summit Home](../../../index) | [Pass Summit 2018 Home](../../index)
+[Site Home](../../../index) | [SQL PASS Summit Home](../../index) | [Pass Summit 2018 Home](../index)
 
 Legend:
 
-? = Question needing answering
+- ? = Question needing answering
 
-T = Tool to examine
+- T = Tool to examine
 
-I = Information for follow up
+- I = Information for follow up
 
-! = ToDo at work
+- ! = ToDo at work
 
-\* Exciting item
+- \* Exciting item
 
 ### PASS Summit Keynote
 

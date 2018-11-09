@@ -1,4 +1,4 @@
-[Site Home](../../../index) | [SQL PASS Summit Home](../../index)
+[Site Home](../../index) | [SQL PASS Summit Home](../index)
 
 ## PASS SUMMIT 2018
 
@@ -8,7 +8,7 @@
 ### Sessions
 [Keynote](./sessions/keynote)
 
-[Nov. 7 Notes](./sessions/Nov07)
+[Nov. 7 Notes](./sessions/Nov07/index)
 
 [Nov. 8 Notes](./sessions/Nov08)
 
