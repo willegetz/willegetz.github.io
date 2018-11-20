@@ -24,6 +24,7 @@ T sp_whoisactive by Adam Machanic
 T* SQL Sentry Plan Explorer
 
 I Use of Approvals Entity Framework/NHibernate can help devs and DBAs. This testing tool will capture the generated TSQL output by these ORMs
+- \* Create a sample application demonstrating the use of Approvals with EF and NHibernate 
 
 ! Demonstrate what the result of Approvals EF/NHibernate looks like
 
