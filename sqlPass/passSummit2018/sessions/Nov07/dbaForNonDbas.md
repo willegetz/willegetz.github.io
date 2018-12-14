@@ -14,6 +14,11 @@ Legend:
 
 ### SQL Server Database Admisitration for the Non-DBA
 
+## Abstract
+> *Are you a developer or a systems admin and you've just been handed a SQL Server database and you've got no idea what to do with it?  I've got some of the answers for you in this session. During this session, we will cover a variety of topics including backup and restore, recovery models, database maintenance, compression, data corruption, database compatibility levels, and indexing.*
+>
+> *While this session won't teach you everything you need to know, it will give you some insights into the SQL Server database engine and give you the ability to better know what to look for.*
+
 \- Keep at least two full backups based on your SLA. For example:
 If you do daily backups you should have two days of backups, likewise weekly backups should have two weeks of backups, and so on...
 

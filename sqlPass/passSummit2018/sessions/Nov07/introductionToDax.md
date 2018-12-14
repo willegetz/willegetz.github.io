@@ -14,6 +14,10 @@ Legend:
 
 ### Introduction to DAX
 
+## Abstract
+
+> *Many people use Power BI without tapping into the true power of DAX. Some think that DAX is an advanced topic, used only by power users, but anyone can learn DAX. Come to this session to see easy and accessible ways to implement DAX in your work with Power BI. We'll simplify difficult topics like how to use Time Intelligence, CALCULATE, ALL, and FILTER. We'll learn the difference between functions with similar names, so you'll know when and when not to use them.*
+
 \- Calculate function is missused
 
 \- DAX is __***NOT***__ TSQL. It is __***NOT***__ the Excel Formula Language. It is it's own thing
