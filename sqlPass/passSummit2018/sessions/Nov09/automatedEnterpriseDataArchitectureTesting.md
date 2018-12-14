@@ -12,7 +12,12 @@ Legend:
 
 - \* Exciting item
 
-### Automated Testing in an Enterprise Data Architecture
+## Automated Testing in an Enterprise Data Architecture
+
+### Speaker: Ike Ellis
+
+### Abstract
+> *Testing tools are very mature in the software development side of the house, but very immature in the business intelligence/reporting side. As the transactional developers release faster and faster, this is putting a burden on the business intelligence professionals. As we strive to keep up, teams are struggling with providing a consistent, reliable solution where bugs don't repeatedly surface. Couple that with the fact that in data warehousing, we move data from the source to several different places, while using many different tools. It becomes difficult to untangle where the bug exists and to prove the bug was fixed and will never appear again. Come to this session to arm yourself with data testing strategies that will improve the quality of your data, visualizations, and reports and preserve trust with your users and business stakeholders.*
 
 \- SQL is a command language
 
