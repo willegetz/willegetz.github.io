@@ -12,9 +12,11 @@ Legend:
 
 - \* Exciting item
 
-### SQL DB Security Overview
+## SQL DB Security Overview
 
-## Abstract
+### Speakers: Jakub Szymaszek, Joachim Hammer, Mirek Sztajno
+
+### Abstract
 
 > *In this session we will review frequent questions from customers about how to best secure their data in Azure SQL Database including Azure SQL Managed Instance. We will share learnings and best practices that customers can use to define a security strategy. For example, we will address questions regarding secure client connections, firewall and VNET configurations, use of authentication, encryption and data masking, etc. In the process we will review SQL's latest security features like Advanced Threat Protection, AAD with Multi-factor authentication, Always Encrypted, and Static Data Masking. We will also shed light on how we secure the service internally and what we plan to do in the future to protect our customer data against the evolving threat landscape.*
 

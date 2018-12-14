@@ -12,9 +12,11 @@ Legend:
 
 - \* Exciting item
 
-### Introduction to DAX
+## Introduction to DAX
 
-## Abstract
+### Speaker: Ike Ellis
+
+### Abstract
 
 > *Many people use Power BI without tapping into the true power of DAX. Some think that DAX is an advanced topic, used only by power users, but anyone can learn DAX. Come to this session to see easy and accessible ways to implement DAX in your work with Power BI. We'll simplify difficult topics like how to use Time Intelligence, CALCULATE, ALL, and FILTER. We'll learn the difference between functions with similar names, so you'll know when and when not to use them.*
 

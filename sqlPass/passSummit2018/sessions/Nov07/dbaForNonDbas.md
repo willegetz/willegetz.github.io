@@ -12,9 +12,11 @@ Legend:
 
 - \* Exciting item
 
-### SQL Server Database Admisitration for the Non-DBA
+## SQL Server Database Admisitration for the Non-DBA
 
-## Abstract
+### Speaker: Denny Cherry
+
+### Abstract
 > *Are you a developer or a systems admin and you've just been handed a SQL Server database and you've got no idea what to do with it?  I've got some of the answers for you in this session. During this session, we will cover a variety of topics including backup and restore, recovery models, database maintenance, compression, data corruption, database compatibility levels, and indexing.*
 >
 > *While this session won't teach you everything you need to know, it will give you some insights into the SQL Server database engine and give you the ability to better know what to look for.*
