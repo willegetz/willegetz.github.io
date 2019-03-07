@@ -9,3 +9,8 @@ The Cult of the Dragon Jovial gathers at night when fighting occurs, often follo
 
 ## Schola Tenebris
 Operating in the blasted and withered old town inland of the slums, the Schola Tenebris maintains a research school of sorts free of oversight. Under the condition that people there are not disturbed anyone can rent space to perform any and all manners of research crossing all fields of scholarly pursuit, though they typically only attract the more nefarious of researchers. Mechanical, arcane, divine, even necromantic research is tolerated. The rooms exist all over the city, but are accessed from the school grounds. The slums are a prime harvest location because the guard does not patrol there, and the thieves guild don't care. Small factions of mercenaries, temple acolytes, and a somewhat hodge podge of a police force are the only ones who try and protect the populace.
+
+## Wyld
+Along with Sylvan elves, druids and barbarians of many races make up a more aggressive nature worshiping enclave which exists among several of the outlying islands and rare patches of greenery in and around the city. In direct opposition of almost everyone, including their more well known bretheren, the Wyld are rarely friendly and welcoming to strangers who wander into their realm.
+### Secrets
+The Wyld is actively fighting the Dragon Jovial, sometimes openly. The Wyld is also interested in people who fall in combat, though they are more picky as to who it is who falls.
